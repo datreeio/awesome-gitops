@@ -5,7 +5,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list.
 
 ## License
 
-    Copyright 2017 Donne Martin
+    Copyright 2017 datree.io
 
     Creative Commons Attribution 4.0 International License (CC BY 4.0)
 
